@@ -1,0 +1,14 @@
+BTNS_MAIN CS
+Text layer
+
+Perspective
+Width: 91,91 pixels
+Height: 5475,22 pixels
+X Axis: 3,99 pixels
+Y Axis: 6,28 pixels
+
+Symbol
+Font Size: 14 pt
+Line Spacing: 78 pt
+
+HEX Color: f69630
